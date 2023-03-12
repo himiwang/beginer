@@ -13,15 +13,9 @@ public static void main(String args[])
 	p1.printThis();
 	System.out.println("-------------------------");
 	 Person p2 = new Person();
-<<<<<<< Updated upstream
-	System.out.println("zhulei p2" + p2);
-// 	p2.printThis();
-//  p1.showInfo();
-=======
 	//System.out.println("zhulei p2" + p2);
 	p2.printThis();
  //p1.showInfo();
->>>>>>> Stashed changes
 	//Person p2 =
 	//new Person(3,"oo").showInfo();
 	//new Person(3,"oo").showInfo();
