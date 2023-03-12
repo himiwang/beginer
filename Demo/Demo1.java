@@ -15,6 +15,7 @@ public static void main(String args[])
 	 Person p2 = new Person();
 	//System.out.println("zhulei p2" + p2);
 	p2.printThis();
+	// 1547•ª•ÏX
  //p1.showInfo();
 	//Person p2 =
 	//new Person(3,"oo").showInfo();
