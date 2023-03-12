@@ -1,5 +1,5 @@
 /*
-this 的必要性
+this commit test 
 */
 
 public class Demo1 {
@@ -54,6 +54,6 @@ this.name = name;
 }
 public void showInfo()
 { 
- System.out.println("人名是："+ this.name +"," + "age is " + this.age );
+ System.out.println("ﾂ人窶督ｼﾂ青･ﾂ："+ this.name +"," + "age is " + this.age );
  }*/
 }
